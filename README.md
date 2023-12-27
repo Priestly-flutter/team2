@@ -1,2 +1,2 @@
 # team2
-this is the main repo for the ;earn hub academy project 
+this is the main repo for the learn hub academy project 
